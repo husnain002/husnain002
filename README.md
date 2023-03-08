@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @husnain002
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning malware analysis
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me gtihub
 
