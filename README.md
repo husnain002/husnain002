@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @husnain002
+- 👋 Hi, I’m husnain
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me gtihub
 
